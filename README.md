@@ -2,9 +2,9 @@
 
 This script sets up a Flask web application with two routes:
 
-`/upload: Accepts a file upload and saves it to the uploads folder.
+ - `/upload: Accepts a file upload and saves it to the uploads folder.
 
-`/download/<filename>: Serves the requested file from the uploads folder for download.
+ - `/download/<filename>: Serves the requested file from the uploads folder for download.
 
 
 To run the app, save the code in a Python file (e.g., app.py) and run it with the command python app.py.
